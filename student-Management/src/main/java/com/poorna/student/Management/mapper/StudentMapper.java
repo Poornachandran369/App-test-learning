@@ -1,7 +1,7 @@
-package com.poorna.student.Management.Mapper;
+package com.poorna.student.Management.mapper;
 
 
-import com.poorna.student.Management.Dto.StudentDto;
+import com.poorna.student.Management.dto.StudentDto;
 import com.poorna.student.Management.model.Student;
 
 public class StudentMapper {

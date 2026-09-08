@@ -1,4 +1,4 @@
-package com.poorna.student.Management.Dto;
+package com.poorna.student.Management.dto;
 
 public class StudentDto {
     private Long studentId;
