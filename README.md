@@ -17,13 +17,11 @@ The application follows a layered architecture using Controller, Service, Reposi
 <h2>🚀 Features</h2>
 
 <ul>
-  <li> Add a new student</li>
-  <li> View all students</li>
-  <li> View student by ID</li>
-  <li> Update student details</li>
-  <li> Delete a student</li>
+  <li> CURD options for student</li>
   <li> MySQL database integration</li>
   <li> RESTful API design</li>
+  <li> Basic authorization</li>
+  <li> Exception handling</li>
 </ul>
 
 <h2>🛠 Technologies Used</h2>
@@ -166,6 +164,8 @@ POST /student
   <li>Implemented CRUD operations</li>
   <li>Tested APIs using Postman</li>
   <li>Followed layered architecture</li>
+  <li>Basics on spring security</li>
+  <li>Exception and handling them</li>
 </ul>
 
 <hr>
